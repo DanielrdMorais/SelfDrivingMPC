@@ -1,7 +1,7 @@
 # SelfDrivingMPC
 Model Predictive Control for Self Driving Cars
 
-Currently developing for [Carla Simulator](http://carla.org/) using [ROS Bridge](https://github.com/carla-simulator/ros-bridge)
+Currently developing for [Carla Simulator](http://carla.org/) using [ROS Bridge](https://github.com/carla-simulator/ros-bridge) in C++
 
 
 
