@@ -19,4 +19,9 @@ Currently developing for [Carla Simulator](http://carla.org/) using [ROS Bridge]
  - Graphics: Nvidia GeForce GTX 970 
  - Memory: 16GB
 
+
+
+
+
+
 <sup>This page is for demonstration purposes only, if you want to know more information, please contact me</sup>
