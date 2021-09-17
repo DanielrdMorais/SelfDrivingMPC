@@ -6,6 +6,7 @@ Currently developing for [Carla Simulator](http://carla.org/) using [ROS Bridge]
 
 
 
+
 ![Carla](http://carla.org//img/carla.jpg)
 
 
@@ -17,3 +18,5 @@ Currently developing for [Carla Simulator](http://carla.org/) using [ROS Bridge]
  - Processor : Intel i7-4790K
  - Graphics: Nvidia GeForce GTX 970 
  - Memory: 16GB
+
+This page is for demonstration purposes only, if you want to know more information, please contact me
