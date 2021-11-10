@@ -12,7 +12,7 @@ Currently developing for [Carla Simulator](http://carla.org/) using [ROS Bridge]
 
 ## Results:
 ### Model Predictive Control for Carla Simulator
-[![Video Thumbnail](http://img.youtube.com/vi/bV8ST00pMJ8/hqdefault.jpg)](https://www.youtube.com/watch?v=bV8ST00pMJ8 "Model Predictive Control for Carla")
+[![Video Thumbnail](http://img.youtube.com/vi/ff6qUwG1www/hqdefault.jpg)](https://www.youtube.com/watch?v=ff6qUwG1www "Model Predictive Control for Carla")
 
 ### Computer Specs:
  - Processor : Intel i7-7700K
