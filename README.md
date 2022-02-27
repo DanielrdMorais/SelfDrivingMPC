@@ -16,7 +16,7 @@ Currently developing for [Carla Simulator](http://carla.org/) using [ROS Bridge]
 
 ### Computer Specs:
  - Processor : Intel i7-7700K
- - Graphics: Nvidia GeForce GTX 1070
+ - Graphics: Nvidia GeForce RTX 3050
  - RAM: 16GB
 
 
