@@ -10,7 +10,7 @@ Developed for [Carla Simulator](http://carla.org/) using [ROS Bridge](https://gi
 ![Carla](http://carla.org//img/carla.jpg)
 
 
-## Results:
+## Results(video):
 ### Model Predictive Control for Carla Simulator
 [![Video Thumbnail](http://img.youtube.com/vi/ff6qUwG1www/hqdefault.jpg)](https://www.youtube.com/watch?v=ff6qUwG1www "Model Predictive Control for Carla")
 
